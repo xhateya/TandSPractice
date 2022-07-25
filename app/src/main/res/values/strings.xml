@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toast and Snackbar Practice</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="show_snackbar">Show Snackbar</string>
+</resources>
